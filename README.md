@@ -12,3 +12,12 @@
 5. 作业管理是负责处理用户提交的任何要求。
 
 ## 计算机网络
+分类：
+1. 局域网：Local Area Network，LAN。   
+![](./images/computer-network_02.jpg) 
+2. 广域网：Wide Area Network，WAN。   
+![](./images/computer-network_01.jpg)  
+
+### 路由器工作原理
+![](./images/network-route_01.png) 
+
