@@ -1,2 +1,2 @@
-# programming-learning-awesome
-programming learning awesome,  or architecture
+# 从0开始学习编程，需要知道哪些知识
+## 计算机组成原理
